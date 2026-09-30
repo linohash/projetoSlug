@@ -47,3 +47,12 @@ a {
     color-scheme: dark;
   }
 }
+
+.container-filmes{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+
+  width: 80vw;
+  margin: auto;
+}
